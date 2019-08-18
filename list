@@ -1,5 +1,5 @@
-127.0.0.1 zackzack.at
-127.0.0.1 www.zackzack.at
+#127.0.0.1 zackzack.at
+#127.0.0.1 www.zackzack.at
 
 127.0.0.1 youtube.com
 127.0.0.1 m.youtube.com
@@ -9,4 +9,8 @@
 
 127.0.0.1 oe24.at
 127.0.0.1 krone.at
+
+
+127.0.0.1 zoom.institute
+127.0.0.1 www.zoom.institute
 
