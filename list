@@ -37,6 +37,6 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 zoom.institute
 # 0.0.0.0 www.zoom.institute
 
-0.0.0.0 apps.derstandard.at
+# 0.0.0.0 apps.derstandard.at
 
 0.0.0.0 fbcdn.net
