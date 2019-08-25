@@ -17,18 +17,18 @@ ff02::3 ip6-allhosts
 # 127.0.0.1 zackzack.at
 # 127.0.0.1 www.zackzack.at
 
-# 0.0.0.0 youtube.com
-# 0.0.0.0 m.youtube.com
-# 0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 www.youtube.com
 
 ## removes images
-0.0.0.0 ytimg.com
+# 0.0.0.0 ytimg.com
 
 # 0.0.0.0 twitter.com
 
-0.0.0.0 oe24.at
-0.0.0.0 www.oe24.at
-0.0.0.0 m.oe24.at
+# 0.0.0.0 oe24.at
+# 0.0.0.0 www.oe24.at
+# sd0.0.0.0 m.oe24.at
 
 # 0.0.0.0 krone.at
 # 0.0.0.0 www.krone.at
@@ -37,6 +37,6 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 zoom.institute
 # 0.0.0.0 www.zoom.institute
 
-# 0.0.0.0 apps.derstandard.at
+0.0.0.0 apps.derstandard.at
 
 0.0.0.0 fbcdn.net
