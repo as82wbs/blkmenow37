@@ -17,9 +17,9 @@ ff02::3 ip6-allhosts
 # 127.0.0.1 zackzack.at
 # 127.0.0.1 www.zackzack.at
 
-# 0.0.0.0 youtube.com
-# 0.0.0.0 m.youtube.com
-# 0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 www.youtube.com
 
 ## removes images
 # 0.0.0.0 ytimg.com
