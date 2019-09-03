@@ -24,7 +24,7 @@ ff02::3 ip6-allhosts
 ## removes images
 # 0.0.0.0 ytimg.com
 
-# 0.0.0.0 twitter.com
+0.0.0.0 twitter.com
 
 0.0.0.0 oe24.at
 0.0.0.0 www.oe24.at
@@ -37,6 +37,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zoom.institute
 0.0.0.0 www.zoom.institute
 
-# 0.0.0.0 apps.derstandard.at
+0.0.0.0 apps.derstandard.at
 
 0.0.0.0 fbcdn.net
